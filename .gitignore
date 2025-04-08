@@ -1,0 +1,4 @@
+.venv
+*.csv
+tagged_description.txt
+db_books/
