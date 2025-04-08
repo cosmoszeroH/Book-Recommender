@@ -1,0 +1,10 @@
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install langchain-community
+pip install langchain-huggingface
+pip install langchain-chroma
+pip install transformers
+pip install gradio
+pip install selenium
+pip install webdriver-manager
